@@ -23,28 +23,46 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  DotNet, C#, JavaScript, Node.js, and maybe Java{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
               <br />
               <br />
-              My key areas of interest include developing
+              My key areas of interest include designing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  scalable backend systems, building high-performance web
+                  applications, and developing microservices-based
+                  architectures.{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              I am particularly interested in distributed systems, real-time
+              data processing, and integrating multi-platform services into
+              unified solutions.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              Whenever possible, I enjoy working with
+              <b className="purple"> .NET Core and Node.js </b> for backend
+              development, along with modern frontend frameworks such as{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Angular</b> and{" "}
+                <b className="purple">React</b>.
+              </i>{" "}
+              I am also passionate about
+              <i>
+                <b className="purple"> system architecture,</b>
+                <b className="purple">
+                  {" "}
+                  event-driven design (Kafka, RabbitMQ),
+                </b>{" "}
               </i>
+              and applying
+              <i>
+                <b className="purple"> AI tools </b>
+              </i>
+              to enhance development workflows.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

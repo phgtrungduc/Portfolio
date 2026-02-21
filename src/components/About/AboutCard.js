@@ -8,37 +8,39 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I'm <span className="purple">Phuong Trung Duc</span>{" "}
+            from <span className="purple">Hanoi, Vietnam</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I'm currently working as a{" "}
+            <span className="purple">Backend Developer</span> at{" "}
+            <span className="purple">KiotViet</span>.
+            <br />I graduated with Honors in{" "}
+            <span className="purple">Computer Science</span> from{" "}
+            <span className="purple">Hanoi University of Science and Technology</span>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            I'm passionate about building scalable backend systems and designing clean, maintainable architectures. I enjoy working with microservices, event-driven systems, and real-time data processing.
+            <br />
+            <br />
+            Outside of coding, I enjoy staying active and balanced:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Playing football and badminton ⚽
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Listening to music 🎵
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Watching movies 🎬
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Keep learning. Keep building. Keep improving." {" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Phuong Trung Duc</footer>
         </blockquote>
       </Card.Body>
     </Card>
